@@ -77,4 +77,4 @@ This project was developed for the **Engineering Workshop** course as an exercis
 | :--- | :--- |
 | [**Abbas Dar**](https://github.com/achdiop) | All the CAD models for 3d printing along with assembling the structure. |
 | [**Asadullah bin Masood**](https://github.com/oddlyyesterday) | Research for ideation of the inward tightening mechanism the wood lathe machine operation for the jaws. |
-| [**Zubia Rani**](https://github.com/) | Engineering drawings and the wood lathe machine operation for the jaws. |
+| [**Zubia Rani**](https://github.com/ZubiaRani) | Engineering drawings and the wood lathe machine operation for the jaws. |
